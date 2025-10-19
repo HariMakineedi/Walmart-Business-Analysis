@@ -1,11 +1,11 @@
-# 🛒 Walmart Business Analysis  
+#  Walmart Business Analysis  
 
-## 📘 Project Overview  
+##  Project Overview  
 This project performs an in-depth analysis of Walmart’s sales data to extract meaningful business insights. Using **Python (Pandas, Matplotlib, Seaborn)**, the analysis explores sales performance, profit trends, customer behavior, and operational efficiency across various dimensions — such as category, payment methods, branches, and time periods.
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 The main goals of this analysis are to:  
 1. **Analyze Payment Methods** – Understand customer preferences across different payment modes.  
 2. **Calculate Total Quantity Sold by Payment Method** – Identify which payment type contributes the most to sales volume.  
@@ -18,7 +18,7 @@ The main goals of this analysis are to:
 
 ---
 
-## 🧰 Tools and Technologies  
+##  Tools and Technologies  
 - **Programming Language:** Python  
 - **Libraries Used:**  
   - `pandas` – Data cleaning and manipulation  
@@ -29,7 +29,7 @@ The main goals of this analysis are to:
 
 ---
 
-## 📊 Key Insights  
+##  Key Insights  
 - **E-wallet** and **Credit Card** were the most used payment methods.  
 - **Home and Lifestyle** and **Fashion Accessories** categories generated the highest total profits.  
 - Sales were highest during **Afternoon shifts**, suggesting optimal operation times.  
@@ -38,15 +38,15 @@ The main goals of this analysis are to:
 
 ---
 
-## 📈 Visualizations  
-- 📊 Bar Charts – Profit and Quantity comparisons  
-- 🥧 Pie/Donut Charts – Payment method distributions  
-- 📈 Line Charts – Daily and Monthly sales/profit trends  
-- 🌈 Area/Plot Charts – Quarterly comparisons  
+##  Visualizations  
+-  Bar Charts – Profit and Quantity comparisons  
+-  Pie/Donut Charts – Payment method distributions  
+-  Line Charts – Daily and Monthly sales/profit trends  
+-  Area/Plot Charts – Quarterly comparisons  
 
 ---
 
-## 🧮 Methodology  
+##  Methodology  
 1. **Data Cleaning:** Handling missing values and converting data types.  
 2. **Feature Engineering:** Adding time-based features (month, quarter, shift).  
 3. **Exploratory Data Analysis (EDA):** Statistical and visual exploration.  
@@ -54,7 +54,7 @@ The main goals of this analysis are to:
 
 ---
 
-## 🧠 Business Impact  
+##  Business Impact  
 This project helps Walmart identify:  
 - The most profitable product segments.  
 - Optimal staff scheduling times.  
